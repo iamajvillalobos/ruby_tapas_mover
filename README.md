@@ -26,12 +26,12 @@ Example (video file/s):
 
 Create a script to transfer the video files to their corresponding non video
 files folder. I use the [downloader](https://github.com/bf4/downloader) by
-Benjamin Fleischer to download all the non-video files and use the iTunes Feed
+**Benjamin Fleischer** to download all the non-video files and use the iTunes Feed
 of RubyTapas to download the videos.
 
 # Instructions
 - clone `https://github.com/iamarmanjon/ruby_tapas_mover.git`
-- use the downloader to generate a directory with all non video files, rename
+- use the [downloader](https://github.com/bf4/downloader) to generate a directory with all non video files, rename
   this directory to `non_video_files`
 - copy all the ruby tapas videos to a folder name `video_files`
 - the two directories must be in the root folder of this repo
