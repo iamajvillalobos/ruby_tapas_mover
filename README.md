@@ -23,6 +23,7 @@ Example (video file/s):
 ```
 
 **Solution:**
+
 Create a script to transfer the video files to their corresponding non video
 files folder. I use the [downloader](https://github.com/bf4/downloader) by
 Benjamin Fleischer to download all the non-video files and use the iTunes Feed
